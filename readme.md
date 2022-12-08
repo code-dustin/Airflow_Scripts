@@ -1,3 +1,3 @@
-# Some Airflow Scripts
+# Airflow Scripts
 
-Going to improve over this over time.
+Mostly a skeleton for when cases become relevant in order to avoid having to rewrite code in the future.
